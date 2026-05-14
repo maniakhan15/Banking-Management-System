@@ -1,0 +1,22 @@
+Banking Management System 
+
+Student Name: MAHA IRFAN, MANIA RAUF, ZAINAB HASHMI
+Student ID: 25K-5709, 25K-5577, 25K-5598
+Course: Programming for Business
+
+HOW TO RUN:
+1. Install Python from python.org
+2. Open Command Prompt
+3. Type: pip install matplotlib
+4. Type: python banking_system.py
+
+FEATURES:
+- Create bank accounts
+- Deposit money
+- Withdraw money  
+- Transfer money
+- Print receipts
+- View reports
+- See charts
+
+FILE: banking_system.py is the main program
