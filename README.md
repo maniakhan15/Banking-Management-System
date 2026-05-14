@@ -1,42 +1,41 @@
-🏦 Banking Management System
-A comprehensive banking management system built in Python as a final project for the Programming for Business course. This application features account creation, deposit and withdrawal capabilities, secure fund transfers, printable receipts, detailed financial reports, and data visualization using matplotlib.
+# 🏦 Banking Management System
 
-📚 Project Information
-Course: Programming for Business
-Semester: Second Semester Final Project
+A Python-based banking management application developed for our Programming for Business final semester project. The system allows users to create accounts, perform transactions, generate receipts, prepare financial summaries, and visualize banking data through charts using matplotlib.
 
-✨ Core Features
-Create and manage bank accounts
+## Project Information
 
-Deposit money seamlessly
+* **Course:** Programming for Business
+* **Semester:** Second Semester Final Project
+* **Team Members:** Maha Irfan, Mania Rauf, Zainab Hashmi
+* **Student IDs:** 25K-5709, 25K-5577, 25K-5598
 
-Withdraw funds securely
+## Features
 
-Transfer money between accounts
+* Open new bank accounts
+* Add funds to accounts
+* Withdraw cash securely
+* Transfer funds between accounts
+* Generate printable transaction receipts
+* Access financial summaries and reports
+* Display graphical analysis using matplotlib
 
-Generate and print transaction receipts
+## How to Run
 
-View detailed financial reports
+1. Download and install Python from python.org
+2. Open Command Prompt or Terminal
+3. Install the required library using: `pip install matplotlib`
+4. Run the project file using: `python banking_system.py`
 
-Display analytical charts and graphs using matplotlib
+## Technologies
 
-⚙️ How to Run
-Install the latest version of Python from python.org
+* Python
+* matplotlib
 
-Open your Command Prompt or Terminal
+## Team Members
 
-Type: pip install matplotlib
+| Name          | Student ID |
+| ------------- | ---------- |
+| Maha Irfan    | 25K-5709   |
+| Mania Rauf    | 25K-5577   |
+| Zainab Hashmi | 25K-5598   |
 
-Type: python banking_system.py
-
-🛠️ Technologies Used
-Python
-
-matplotlib
-
-👩‍💻 Development Team
-Maha Irfan (Student ID: 25K-5709)
-
-Mania Rauf (Student ID: 25K-5577)
-
-Zainab Hashmi (Student ID: 25K-5598)
